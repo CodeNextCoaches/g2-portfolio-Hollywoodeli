@@ -1,0 +1,14 @@
+nav ul {
+	list-style-type: none;
+
+}
+nav ul li {
+	display: inline;
+}
+span {
+	float: right;
+}
+.icon{
+	width: 50px;
+
+}
