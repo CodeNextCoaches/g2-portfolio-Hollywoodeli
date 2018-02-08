@@ -12,3 +12,14 @@ span {
 	width: 50px;
 
 }
+img{
+	width: 50%;
+	height:12%;
+	display: right;
+
+
+}
+body{
+	color:#af1820;
+	display: left;
+}
