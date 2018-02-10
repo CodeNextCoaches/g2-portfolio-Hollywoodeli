@@ -15,11 +15,14 @@ span {
 img{
 	width: 50%;
 	height:12%;
-	display: right;
+	
 
 
 }
 body{
 	color:#af1820;
-	display: left;
+	font size: 20px;
+}
+div img{
+	float: right;
 }
